@@ -1,9 +1,13 @@
+---
+layout: page
+title: Historie
+---
 # Historie
 
 De manuele therapie werd na jarenlang empirisch en theoretisch onderzoek als behandelmethode geïntroduceerd door G. van der Bijl senior (1909-1977). Nadat hij de osteopathie en de chiropractie had bestudeerd (hij verwierf de osteopathische titel ‘DO’ – Doctor of Osteopathy – en ontving de Europese Prijs voor Osteopathische Research’ in 1965) bracht hij met name het ‘manuele’ deel in de praktijk. Reeds toen gaf hij de voorkeur aan de wat zachtere osteopathische behandelingstechnieken boven de agressievere chiropractische ‘adjustments’.
 
-> ![](img/Gvdbijl.jpg)
-> <br/> G. van der Bijl Senior
+![G. van der Bijl Senior](img/Gvdbijl.jpg)
+G. van der Bijl Senior
 
 In een streven naar vervanging van de in zijn ogen onbetrouwbare subjectieve onderzoekmethodieken ontwikkelde G. van der Bijl een volstrekt eigen visie op de menselijke bewegingsfuncties. Het is zijn grote verdienste geweest dat hij de complexiteit van de individuele bewegingsfunctie modelmatig trachtte te benaderen. Hij was van opvatting dat het menselijk functioneren, met behulp van mechanische wetten en axioma’s, in een individueel functiemodel uiteindelijk weer te geven en te begrijpen zou zijn.
 

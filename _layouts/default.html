@@ -1,0 +1,67 @@
+<html lang="nl">
+
+<head>
+    <meta charset="utf-8">
+    <title>Patiëntenvereniging Manuele Therapie E.S. - {{ page.title }}</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tailwindcss/ui@latest/dist/tailwind-ui.min.css">
+    <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+    <link rel="stylesheet" href="https://unpkg.com/@tailwindcss/typography@0.2.x/dist/typography.min.css"/>
+    <style>
+        html {
+            font-family: 'Inter', sans-serif;
+        }
+
+        @supports (font-variation-settings: normal) {
+            html {
+                font-family: 'Inter var', sans-serif;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Navigation -->
+    <header class="text-gray-700 body-font">
+        <div class="container mx-auto flex flex-wrap p-5 flex-col md:flex-row items-center">
+            <a class="flex title-font font-medium items-center text-gray-900 mb-4 md:mb-0" href="/">
+                <!-- Logo -->
+                <img src="img/logo.svg" class="w-10 h-10 text-white p-1 bg-pink-500 rounded-full">
+                <span class="ml-3 text-xl">PVMT</span>
+            </a>
+            <nav class="md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center">
+                <a class="mr-8 hover:text-pink-500" href="/">Manuele Therapie E.S.</a>
+                <a class="mr-8 hover:text-pink-500" href="/therapeuten.html">Zoek Therapeut</a>
+                <a class="mr-8 hover:text-pink-500">Zorgvergoedingen</a>
+                <a class="mr-8 hover:text-pink-500" href="over-ons.html">Over Ons</a>
+            </nav>
+            <button
+                class="inline-flex items-center bg-gray-200 border-0 py-1 px-3 focus:outline-none hover:bg-gray-300 rounded text-base mt-4 md:mt-0">Contact
+                <svg fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                    class="w-4 h-4 ml-1" viewBox="0 0 24 24">
+                    <path d="M5 12h14M12 5l7 7-7 7"></path>
+                </svg>
+            </button>
+        </div>
+    </header>
+
+    <!-- Content -->
+    {{ content }}
+
+    <!-- Footer -->
+    <footer class="text-gray-700 body-font">
+        <div class="container px-5 py-8 mx-auto flex items-center sm:flex-row flex-col">
+            <a class="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
+                <img src="img/logo.svg" class="w-10 h-10 text-white p-1 bg-pink-500 rounded-full">
+                <span class="ml-3 text-xl">PVMT</span>
+            </a>
+            <p class="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">©
+                2021 Patiëntenvereniging Manuele Therapie E.S. 
+                <!-- —
+                <a href="https://twitter.com/knyttneve" class="text-gray-600 ml-1" rel="noopener noreferrer"
+                    target="_blank">secretaris@pvmt.nl</a> -->
+            </p>
+        </div>
+    </footer>
+</body>
+
+</html>

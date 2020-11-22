@@ -1,3 +1,7 @@
+---
+layout: page
+title: Over Manuele Therapie E.S.
+---
 # Over Manuele Therapie E.S.
 
 Manuele Therapie E.S.® is een behandelwijze die zich richt op de behandeling van klachten van het bewegingsapparaat, of klachten die daarvan zijn afgeleid. Deze behandelwijze houdt rekening met individuele verschillen en asymmetriën. 
