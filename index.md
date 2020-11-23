@@ -14,7 +14,7 @@
         <div class="flex flex-wrap -m-4">
             <div class="xl:w-1/4 md:w-1/2 p-4">
                 <div class="bg-gray-100 p-6 rounded-lg">
-                    <a href="/manueletherapie.html">
+                    <a href="manueletherapie.html">
                         <img class="h-50 rounded w-full object-cover object-center mb-6" src="img/1.png" alt="content">
                         <h3 class="tracking-widest text-pink-500 text-xs font-medium title-font">Wat is</h3>
                         <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Methodiek</h2>
@@ -26,7 +26,7 @@
             </div>
             <div class="xl:w-1/4 md:w-1/2 p-4">
                 <div class="bg-gray-100 p-6 rounded-lg">
-                    <a href="/behandeltraject.html">
+                    <a href="behandeltraject.html">
                         <img class="h-50 rounded w-full object-cover object-center mb-6" src="img/4.png" alt="content">
                         <h3 class="tracking-widest text-pink-500 text-xs font-medium title-font">Hoe werkt</h3>
                         <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Behandeltraject</h2>
@@ -38,7 +38,7 @@
             </div>
             <div class="xl:w-1/4 md:w-1/2 p-4">
                 <div class="bg-gray-100 p-6 rounded-lg">
-                    <a href="/historie.html">
+                    <a href="historie.html">
                         <img class="h-50 rounded w-full object-cover object-center mb-6" src="img/bijl.png"
                             alt="content">
                         <h3 class="tracking-widest text-pink-500 text-xs font-medium title-font">Wanneer werd</h3>
