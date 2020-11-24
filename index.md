@@ -2,7 +2,7 @@
 <section class="text-gray-700 body-font">
     <div class="container px-5 py-24 mx-auto">
         <div class="flex flex-wrap w-full mb-20">
-            <div class="lg:w-1/2 w-full mb-6 lg:mb-0">
+            <div class="lg:w-1/3 w-full mb-6 lg:mb-0">
                 <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">
                     Patiëntenvereniging<br />Manuele Therapie E.S</h1>
                 <div class="h-1 w-20 bg-pink-500 rounded"></div>
@@ -62,27 +62,22 @@
 
 <!-- Lid worden -->
 <section class="text-gray-700 body-font">
-    <div class="container px-5 py-24 mx-auto flex flex-wrap items-center">
+    <div class="container px-5 mx-auto flex flex-wrap items-center">
         <div class="lg:w-3/5 md:w-1/2 md:pr-16 lg:pr-0 pr-0">
             <h1 class="title-font font-medium text-3xl text-gray-900">Lid zijn is <span
                     class="text-pink-500">kostenloos</span></h1>
             <p class="leading-relaxed mt-4">
                 Als lid word je als eerste op de hoogte gebracht van alle nieuwtjes omtrent de Manuele Therapie E.S.
                 behandelmethode. Tevens oefen je als lid direct invloed uit op onze activiteiten. Lid worden is
-                makkelijk: laat je interesse horen en onze secretaris neemt dan contact met je op.</p>
-        </div>
-        <div class="lg:w-2/6 md:w-1/2 bg-gray-200 rounded-lg p-8 flex flex-col md:ml-auto w-full mt-10 md:mt-0">
-            <h2 class="text-gray-900 text-lg font-medium title-font mb-5">Interesse in lidmaatschap</h2>
-            <input
-                class="bg-white rounded border border-gray-400 focus:outline-none focus:border-pink-500 text-base px-4 py-2 mb-4"
-                placeholder="Volledige naam" type="text">
-            <input
-                class="bg-white rounded border border-gray-400 focus:outline-none focus:border-pink-500 text-base px-4 py-2 mb-4"
-                placeholder="Email" type="email">
-            <button
-                class="text-white bg-pink-500 border-0 py-2 px-8 focus:outline-none hover:bg-pink-600 rounded text-lg">Ja,
-                ik wil meer weten!</button>
-            <p class="text-xs text-gray-500 mt-3">Literally you probably haven't heard of them jean shorts.</p>
+                makkelijk: laat je interesse horen en onze secretaris neemt dan contact met je op.
+            </p>
+            <div class="p-2 py-5 w-full">
+                <a href="contact.html">
+                    <button class="flex mx-auto text-white bg-pink-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg">
+                        Ja, ik wil meer weten!
+                    </button>
+                </a>
+            </div>
         </div>
     </div>
 </section>
