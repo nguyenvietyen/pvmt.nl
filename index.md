@@ -50,10 +50,12 @@
             </div>
             <div class="xl:w-1/4 md:w-1/2 p-4">
                 <div class="bg-gray-100 p-6 rounded-lg">
-                    <img class="h-50 rounded w-full object-cover object-center mb-6" src="img/3.png" alt="content">
-                    <h3 class="tracking-widest text-pink-500 text-xs font-medium title-font">Hoeveel kost</h3>
-                    <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Zorgvergoedingen</h2>
-                    <p class="leading-relaxed text-base">Een aantal Nederlandse zorgverzekeraars dekken Manuele Therapie E.S.® in hun aanvullende zorgverzekeringen.</p>
+                    <a href="vergoedingen.html">
+                        <img class="h-50 rounded w-full object-cover object-center mb-6" src="img/3.png" alt="content">
+                        <h3 class="tracking-widest text-pink-500 text-xs font-medium title-font">Hoeveel kost</h3>
+                        <h2 class="text-lg text-gray-900 font-medium title-font mb-4">Zorgvergoedingen</h2>
+                        <p class="leading-relaxed text-base">Een aantal Nederlandse zorgverzekeraars dekken Manuele Therapie E.S.® in hun aanvullende zorgverzekeringen.</p>
+                    </a>
                 </div>
             </div> 
         </div>

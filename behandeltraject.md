@@ -17,11 +17,11 @@ De manueel therapeut begint met een inventarisatie van de klachten en de gezondh
 
 Hierna volgt een algemeen onderzoek, waarbij de manueel therapeut ondermeer de stand en mobiliteit van de patiënt bekijkt, overigens zonder hieraan een waarde oordeel te geven. Het algemeen lichamelijk onderzoek dient slechts om de toestand vóór en na een behandeling te kunnen vergelijken (dit geldt evenzeer voor de anamnese).
 
-> ![](img/BEH120_meten02-120x150.jpg)
-> <br/> Meting van de polsbreedte
+![](img/BEH120_meten02-120x150.jpg)
+Meting van de polsbreedte
 
-> ![](img/BEH120_meten01-120x150.jpg)
-> <br/> Meting van de kaaklengte
+![](img/BEH120_meten01-120x150.jpg)
+Meting van de kaaklengte
 
 Het onderzoek wordt aangevuld met bepaalde testen voor voorkeursbewegingen, bijvoorbeeld hoe u spit, de handen vouwt, de kleermakerszit aanneemt) en het meten van de asymmetrie van het lichaam (links-rechts verschillen), de individuele bouw en functie vastgesteld. Met behulp van schema­boeken worden aan de hand van deze metingen de individuele bewegingspatronen van de gewrichtsketens bepaald. Bij iedere behandeling worden, omdat daarin veranderingen kunnen optreden, de metingen opnieuw verricht om die van een voorgaande behandeling te verifiëren.
 
@@ -29,11 +29,11 @@ Het onderzoek wordt aangevuld met bepaalde testen voor voorkeursbewegingen, bijv
 
 Op basis van de verkregen gegevens wordt duidelijk hoe de manueel therapeut de gewrichten moet bewegen. Het door de therapeut bewegen van de botstukken gebeurt door een lichte druk uit te oefenen op de botten, waarbij steeds het ene bot wordt bewogen en het aangrenzende botstuk wordt geremd in de beweging. De manier van bewegen is afhankelijk van de vorm van de gewrichten en komt overeen met hetgeen uit de bewegingsanalyse is berekend. 
 
-> ![](img/BEH120_lendenwervel.jpg)
-> <br/> Behandeling van de lendenwervelkolom
+![](img/BEH120_lendenwervel.jpg)
+Behandeling van de lendenwervelkolom
 
-> ![](img/BEH120_schedel-120x150.jpg)
-> <br/> Schedelbehandeling
+![](img/BEH120_schedel-120x150.jpg)
+Schedelbehandeling
 
 Getracht wordt daarmee de optimale beweging in de gewrichten te herstellen, waardoor de patiënt weer in staat zal zijn elke houding probleemloos aan te nemen of elke beweging weer zonder moeite uit te voeren. Het gevolg daarvan is dat pijnlijke structuren zich herstellen.
 

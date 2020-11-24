@@ -8,9 +8,9 @@ Manuele Therapie E.S.® is een behandelwijze die zich richt op de behandeling va
 
 Manuele therapeuten E.S.® trachten uitsluitend door gebruik van handgrepen (i.e. manueel) een optimale bewegingsfunctie te realiseren en te handhaven. Hierbij wordt zeer subtiel en meestal pijnloos gewrichten in het lichaam bewogen. De methode wordt ook wel de eggshell (E.S.®) methode genoemd. De kracht die bij de behandeling wordt gebruikt is zo gering, dat een eierschaal nog niet zou breken. Er wordt dus niet gekraakt. 
 
-> ![](img/foto_huug2.jpg)
-> <br/> Invloed van de behandeltechniek op de verplaatsing van botstukken in een schoudergewricht. De vingers zijn van de behandelaar. 
-> <br/> Bron: Hans Vuurmans, Nederhorst den Berg.
+![](img/foto_huug2.jpg)
+Invloed van de behandeltechniek op de verplaatsing van botstukken in een schoudergewricht. De vingers zijn van de behandelaar. 
+Bron: Hans Vuurmans, Nederhorst den Berg.
 
 Daarnaast onderscheidt Manuele Therapie E.S.® zich van andere (vertebrale) therapievormen met haar totaalbehandeling. 
 
@@ -18,9 +18,9 @@ Ieder mens is herkenbaar aan zijn eigen bouw, zijn eigen houding en zijn eigen m
 
 Bij klachten in het bewegingsapparaat reageert een gewricht niet meer adequaat op een gevraagde functie, waardoor het individuele bewegingspatroon verstoord raakt. De manuele therapie richt zich op het herstellen van de verstoorde relatie tussen vorm en functie. Het bewegingsapparaat, waartoe alle gewrichten van het menselijk lichaam behoren met hun bijbehorende spieren en zenuwen, is een eenheid en functioneert ook als zodanig. Binnen deze functionele eenheid kunnen één of meer functiestoornissen op verschillende locaties aanwezig zijn. Om deze reden worden tijdens een behandeling alle bewegingsketens, dus het lichaam in zijn totaliteit, behandeld.
 
-> ![](img/foto_huug3.jpg)
-> <br/> Een hernia op de foto links. Op de rechter foto dezelfde wervelkolom een jaar later. De hernia is zonder operatie verdwenen.
-> <br/> Bron: Hans Vuurmans, Nederhorst den Berg.
+![](img/foto_huug3.jpg)
+Een hernia op de foto links. Op de rechter foto dezelfde wervelkolom een jaar later. De hernia is zonder operatie verdwenen.
+Bron: Hans Vuurmans, Nederhorst den Berg.
 
 Een aantal voorbeeld indicaties die door een manueel therapeut kunnen worden behandeld:
 
