@@ -2,6 +2,60 @@
 layout: page
 title: Zorgvergoedingen
 ---
+<style>
+/* Default table styles for this demo */
+table {
+    border-collapse: collapse;
+    text-align: left;
+    width: 100%;
+}
+table tr {
+    background: white;
+    border-bottom: 1px solid
+}
+table th, table td {
+    padding: 10px 20px;
+}
+table td span {
+    background: #eee;
+    color: dimgrey;
+    display: none;
+    font-size: 10px;
+    font-weight: bold;
+    padding: 5px;
+    position: absolute;
+    text-transform: uppercase;
+    top: 0;
+    left: 0;
+}
+
+/* Simple CSS for flexbox table on mobile */
+@media(max-width: 800px) {
+    table thead {
+        left: -9999px;
+        position: absolute;
+        visibility: hidden;
+    }
+    table tr {
+        border-bottom: 0;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        margin-bottom: 40px;
+    }
+    table td {
+        border: 1px solid;
+        margin: 0 -1px -1px 0;
+        padding-top: 35px;
+        position: relative;
+        width: 100%;
+    }
+    table td span {
+        display: block;
+    }
+}
+</style>
+
 # Zorgvergoedingen 2021
 
 De onderstaande lijst geeft een overzicht van Nederlandse zorgverzekeraars en de door haar aangegeven vergoedingen voor de behandelingen volgens de methode Manuele Therapie E.S in 2021. Deze lijst is met uiterste zorg samengesteld. Desondanks kunnen er geen rechten aan ontleend worden en zijn wijzigingen voorbehouden.
@@ -246,9 +300,7 @@ Wij adviseren dat je, alvorens je een behandeling ondergaat, eerst contact met j
 | ZorgDirect \(Salland\)                                  | ENO                              | top                                                                  | €40,\-                   | \-                                                                                                                                                      | maximaal €500,\- per jaar                                                                                                     |
 | Zorgzaam \(Unive\)                                      | VGZ                              | ster 1, aanvul Instap                                                | €0                       | \-                                                                                                                                                      | geen                                                                                                                          |
 | Zorgzaam \(Unive\)                                      | VGZ                              | ster 2 / goed                                                        | €40,\-                   | nee, aangewezen zorgaanbieder                                                                                                                           | 200,\- max per jaar onderalternatieve geneeswijze                                                                             |
-|                                                         |                                  |                                                                      |                          |                                                                                                                                                         |                                                                                                                               |
 | Zorgzaam \(Unive\)                                      | VGZ                              | ster3 / Beter                                                        | €40,\-                   | nee, aangewezen zorgaanbieder                                                                                                                           | 300,\- max per jaar onder alternatieve geneeswijze                                                                            |
-|                                                         |                                  |                                                                      |                          |                                                                                                                                                         |                                                                                                                               |
 | Zorgzaam \(Unive\)                                      | VGZ                              | ster 4 / Best                                                        | €40,\-                   | nee, aangewezen zorgaanbieder                                                                                                                           | 500,\- max per jaar onderalternatieve geneeswijze                                                                             |
 | Zorgzaam \(Unive\)                                      | VGZ                              | ster 5/ bestaat niet meer                                            | €0                       | nee, aangewezen zorgaanbieder                                                                                                                           | geen                                                                                                                          |
 
