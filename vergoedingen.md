@@ -251,3 +251,12 @@ Wij adviseren dat je, alvorens je een behandeling ondergaat, eerst contact met j
 |                                                         |                                  |                                                                      |                          |                                                                                                                                                         |                                                                                                                               |
 | Zorgzaam \(Unive\)                                      | VGZ                              | ster 4 / Best                                                        | €40,\-                   | nee, aangewezen zorgaanbieder                                                                                                                           | 500,\- max per jaar onderalternatieve geneeswijze                                                                             |
 | Zorgzaam \(Unive\)                                      | VGZ                              | ster 5/ bestaat niet meer                                            | €0                       | nee, aangewezen zorgaanbieder                                                                                                                           | geen                                                                                                                          |
+
+<!-- CTA -->
+<section class="text-gray-700 body-font">
+    <a href="contact.html">
+        <button class="flex mx-auto text-white bg-pink-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg">
+            Vragen? Neem contact op!
+        </button>
+    </a>
+</section>

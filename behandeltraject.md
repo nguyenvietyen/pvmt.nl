@@ -9,7 +9,7 @@ Er is vrije toegankelijkheid voor de manueel therapeut. U heeft dus geen verwijz
 
 Gemiddeld leggen patienten 3 a 4 consulten af. Wanneer u de praktijk bezoekt op verwijzing van de huisarts of specialist, krijgt de verwijzend arts na het eerste bezoek een brief met daarin de bevindingen van het eerste onderzoek. Indien de verwijzend arts een specialist is, wordt altijd een kopie van de brief naar de huisarts gestuurd. Als de behandelserie is afgerond, wordt opnieuw een brief gestuurd met daarin de resultaten van de behandeling en eventuele aanbevelingen.
 
-## Intrakegesprek
+## Intakegesprek
 
 De manueel therapeut begint met een inventarisatie van de klachten en de gezondheids­toestand. Dat wil zeggen dat er een vraaggesprek wordt gehouden waarin wordt gevraagd naar de klachten, waar en wanneer ze optreden, hoe lang ze al bestaan, waardoor ze worden verergerd of juist minder worden enz. Ook kan gevraagd worden naar andere aandoeningen of ziektes, eerdere behandelingen, terwijl ook zaken als werk- en privé-omstandigheden aan bod kunnen komen. Onderzoeksresultaten van derden, waaronder röntgenfoto’s, scans e.d. worden ook hierbij betrokken.
 
@@ -45,3 +45,12 @@ Getracht wordt daarmee de optimale beweging in de gewrichten te herstellen, waar
 ## Afsluitend Onderzoek
 
 Na de behandeling wordt door de therapeut een evaluerende toets gedaan naar het directe resultaat van de behandeling. Dit gebeurt door een aantal bevindingen uit het algemeen lichamelijk onderzoek te herhalen. Verder wordt de patiënt voorgelicht over de te verwachten reacties op de behandeling.
+
+<!-- CTA -->
+<section class="text-gray-700 body-font">
+    <a href="therapeuten.html">
+        <button class="flex mx-auto text-white bg-pink-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg">
+            Next: Zoek therapeut
+        </button>
+    </a>
+</section>

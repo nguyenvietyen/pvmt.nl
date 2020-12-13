@@ -11,3 +11,12 @@ Gecertificeerde therapeuten voldoen aan alle door de vereniging in haar statuten
 De overige therapeuten zijn eveneens in staat om manuele therapie toe te passen, doch hebben zich (nog) niet laten certificeren of voldoen niet aan de daaraan gestelde criteria.
 
 De Vereniging van Manueel Therapeuten (VMT) houdt een up to date lijst van beide therapeuten. Die vindt u hier: [Therapeuten](https://manueeltherapeuten.nl/?page_id=44)
+
+<!-- CTA -->
+<section class="text-gray-700 body-font">
+    <a href="vergoedingen.html">
+        <button class="flex mx-auto text-white bg-pink-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg">
+            Next: Zorgvergoedingen
+        </button>
+    </a>
+</section>

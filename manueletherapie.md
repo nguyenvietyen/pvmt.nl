@@ -36,3 +36,12 @@ Een aantal voorbeeld indicaties die door een manueel therapeut kunnen worden beh
 * bepaalde vormen van pijn op de borst of in de oksel
 
 Bij het eerste consult bespreekt de manueel therapeut aan de hand van het intakegesprek en uitgebreid onderzoek de klachten door middel van manuele therapie gunstig te beïnvloeden zijn.
+
+<!-- CTA -->
+<section class="text-gray-700 body-font">
+    <a href="behandeltraject.html">
+        <button class="flex mx-auto text-white bg-pink-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg">
+            Next: Het behandeltraject
+        </button>
+    </a>
+</section>
