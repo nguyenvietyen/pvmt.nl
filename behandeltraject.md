@@ -25,14 +25,14 @@ Meting van de kaaklengte
 
 Het onderzoek wordt aangevuld met bepaalde testen voor voorkeursbewegingen, bijvoorbeeld hoe u spit, de handen vouwt, de kleermakerszit aanneemt) en het meten van de asymmetrie van het lichaam (links-rechts verschillen), de individuele bouw en functie vastgesteld. Met behulp van schema­boeken worden aan de hand van deze metingen de individuele bewegingspatronen van de gewrichtsketens bepaald. Bij iedere behandeling worden, omdat daarin veranderingen kunnen optreden, de metingen opnieuw verricht om die van een voorgaande behandeling te verifiëren.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/b3DA9MtMQGs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/b3DA9MtMQGs' frameborder='0' allowfullscreen></iframe></div>
 Weblecture over de voorkeursmetingen binnen Manuele Therapie E.S.
 
 ## Behandeling
 
 Op basis van de verkregen gegevens wordt duidelijk hoe de manueel therapeut de gewrichten moet bewegen. Het door de therapeut bewegen van de botstukken gebeurt door een lichte druk uit te oefenen op de botten, waarbij steeds het ene bot wordt bewogen en het aangrenzende botstuk wordt geremd in de beweging. De manier van bewegen is afhankelijk van de vorm van de gewrichten en komt overeen met hetgeen uit de bewegingsanalyse is berekend. 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cLw8wjtX0_c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/cLw8wjtX0_c' frameborder='0' allowfullscreen></iframe></div>
 
 ![](img/BEH120_lendenwervel.jpg)
 Behandeling van de lendenwervelkolom
