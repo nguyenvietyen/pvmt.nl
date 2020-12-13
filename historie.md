@@ -26,3 +26,12 @@ De laatste decennia zijn anderen uit de wereld van de fysiotherapie en de genees
 De manuele therapie volgens de methode Van der Bijl is als enige methode op dit gebied in staat te werken volgens sterk geobjectiveerde criteria ten aanzien van het individuele menselijke bewegen, waardoor een zekere standaardisatiegraad wordt bereikt. De behandelaar is hierdoor in staat steeds dezelfde behandelingskwaliteit te leveren en is bovendien in staat om interindividuele behandelingsverschillen tot een minimum te beperken.
 
 Bron: ‘Het individuele functiemodel in de manuele therapie’, G. van der Bijl, 1986, De Tijdstroom, Lochem
+
+<!-- CTA -->
+<section class="text-gray-700 body-font">
+    <a href="behandeltraject.html">
+        <button class="flex mx-auto text-white bg-pink-500 border-0 py-2 px-8 focus:outline-none hover:bg-gray-600 rounded text-lg">
+            Next: Behandeltraject
+        </button>
+    </a>
+</section>
