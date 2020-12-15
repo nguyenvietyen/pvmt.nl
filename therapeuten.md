@@ -12,8 +12,8 @@ De overige therapeuten zijn eveneens in staat om manuele therapie toe te passen,
 
 De Vereniging van Manueel Therapeuten (VMT) houdt een up to date lijst van beide therapeuten. Die vindt u hier: [Therapeuten](https://manueeltherapeuten.nl/?page_id=44)
 
-Voor uw gemak zijn de gecertificeerde leden hieronder te vinden:
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSYRVD-2n9sZqcyi7x10iLVm7g_vdWryimFj4dDwv5lFV1SY0OUXCASvbJF-R4G2gRq9pe1yIBvIVYE/pubhtml?gid=2098566178&amp;single=true&amp;widget=false&amp;headers=false&amp;chrome=false" width="100%" height="2500"></iframe>
+<iframe src="https://www.google.com/maps/d/u/5/embed?mid=1ggRPOqQbFMaTZQTTYN2eAXXPyOC-6HAf" width="100%" height="480"></iframe>
+<br/>
 
 <!-- CTA -->
 <section class="text-gray-700 body-font">
