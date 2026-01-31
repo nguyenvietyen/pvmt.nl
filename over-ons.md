@@ -4,9 +4,7 @@ title: Over de PVMT
 ---
 # Over de PVMT
 
-De Patiëntenvereniging Manuele Therapie E.S. (afgekort de PVMT) behartigt de patiëntenbelangen van manueel therapeuten die werken volgens het eggshell specialisme. Wij zorgen mede voor dat de unieke Manuele Therapie E.S. behandelmethode gesteund blijft door zorgverzekeraars, therapeuten en artsen. Tevens nemen wij als onafhankelijk derde zitting in de klachtencommissie tussen therapeut en patiënt. 
-
-Jaarlijks stellen wij vergoedingenoverzichten op, zodat onze leden kunnen bepalen welke zorgverzekeraar het best de behandelingen dekken. 
+De Patiëntenvereniging Manuele Therapie E.S. (afgekort de PVMT) behartigt de patiëntenbelangen van manueel therapeuten die werken volgens het eggshell specialisme. Wij zorgen mede voor dat de unieke Manuele Therapie E.S. behandelmethode gesteund blijft door zorgverzekeraars, therapeuten en artsen. Jaarlijks stellen wij vergoedingenoverzichten op, zodat onze leden kunnen bepalen welke zorgverzekeraar het best de behandelingen dekken. 
 
 <!-- CTA -->
 <section class="text-gray-700 body-font">
